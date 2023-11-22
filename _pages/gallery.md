@@ -1,7 +1,8 @@
 ---
 title: "Gallery"
 permalink: /gallery/
-author_profile: true
+author_profile: false
+layout: single
 gallery:
   - url: /assets/images/gallery1/phoca_thumb_l_20170708_142150-768x576.jpg
     image_path: /assets/images/gallery1/phoca_thumb_l_20170708_142150-768x576.jpg
@@ -21,4 +22,4 @@ gallery:
 ---
 ## Outdoor Range
 
-{% include gallery layout="half" %}
+{% include gallery %}
