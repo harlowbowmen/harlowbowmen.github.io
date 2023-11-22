@@ -19,6 +19,6 @@ gallery:
     image_path: /assets/images/gallery1/phoca_thumb_l_img_20180822_195328_web.jpg
     title: 
 ---
-The following are some photos of our outdoor range.
+## Outdoor Range
 
-{% include gallery caption="Outdoor range" layout="half" %}
+{% include gallery layout="half" %}
