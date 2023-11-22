@@ -1,7 +1,7 @@
 ---
 title: "Gallery"
 permalink: /gallery/
-author_profile: false
+author_profile: true
 gallery:
   - url: /assets/images/gallery1/phoca_thumb_l_20170708_142150-768x576.jpg
     image_path: /assets/images/gallery1/phoca_thumb_l_20170708_142150-768x576.jpg
@@ -21,4 +21,4 @@ gallery:
 ---
 The following are some photos of our outdoor range.
 
-{% include gallery caption="Outdoor range" %}
+{% include gallery caption="Outdoor range" layout="half" %}
