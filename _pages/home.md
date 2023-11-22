@@ -8,5 +8,5 @@ header:
   # overlay_color: "#5e616c"
   overlay_image: /assets/images/HBBackground.jpg
 excerpt:
-  Harlow Bowmen, your local Harlow archery club.
+  Harlow Bowmen, your local Harlow archery club.<br/><br/><br/><br/><br/><br/><br/>
 ---
