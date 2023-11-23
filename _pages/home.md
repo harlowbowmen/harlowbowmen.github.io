@@ -32,5 +32,6 @@ header:
 excerpt:
   <br/><br/><br/><br/><br/><br/><br/>
   Harlow Bowmen, your local Harlow archery club.<br/>
-  {% include feature_row %}<br/>
+  <br/><br/><br/><br/><br/>
 ---
+{% include feature_row %}
