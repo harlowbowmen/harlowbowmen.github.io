@@ -5,8 +5,8 @@ main:
   - title: "News"
     url: /news/
     description: Latest news about the club
-  - title: "Joining"
-    url: /joining/
+  - title: "Join Us"
+    url: /joinus/
     description: Information on joining or visiting the club
   - title: "Gallery"
     url: /gallery/
