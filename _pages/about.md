@@ -18,3 +18,6 @@ There is an annual membership fee set by the club committee each year, with the 
 
 ## History
 The club was founded in 19xx and is run by the members.
+
+## Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fcMskBoI8LA?si=y89GP8HFCpioT6Kx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
