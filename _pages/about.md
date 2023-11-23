@@ -5,7 +5,7 @@ layout: single
 toc: true
 ---
 
-![Harlow Bowmen Logo](/assets/images/HarlowBowmenLogo.jpg)
+![Harlow Bowmen Logo](/assets/images/HBLogoT.png)
 
 ## Introduction
 Harlow Bowmen is an archery club that welcomes all genders, backgrounds, ages and levels of experience.  
