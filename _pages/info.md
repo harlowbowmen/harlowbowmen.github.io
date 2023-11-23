@@ -6,7 +6,6 @@ feature_row:
   - image_path: /assets/images/recurve.jpg
     alt: "Recurve"
     title: "Recurve Bow"
-    excerpt: "Recurve Bow"
     url: "/info/recurve"
     btn_class: "btn--primary"
     btn_label: "Recurve Bow"
