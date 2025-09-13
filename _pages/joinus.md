@@ -12,6 +12,8 @@ Our training courses run when the certified coaches are available. Each course c
 
 During the training we will provide you with all the equipment you need. We will teach you the basics and supervise you to ensure your safety and to guide you towards firing with accuracy.  Each course costs £60 per person (as of 2025), you will be notified of the current pricing as part of the booking process. Payment is accepted via cash or cheque.
 
+We strongly recommend you do not buy any equipment without first discussing it with our coaches.  When you're starting out it is easy to waste a lot of money on unsuitable equipment.
+
 ## Full Membership
 There is an annual membership fee set by the club committee each year, with the year starting 1st September. If you join during the year your fee will be pro-rated for the remainder of the year, although your membership fees for Archery GB (required for insurance coverage) will be subject to their terms. There are no shooting/attendance fees.
 
