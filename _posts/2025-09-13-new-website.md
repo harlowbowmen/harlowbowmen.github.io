@@ -9,5 +9,6 @@ tags:
 show_author: false
 ---
 
-This is the new website for Harlow Bowmen.
+Welcome to the new website for Harlow Bowmen.  We hope it provides useful information to anyone interested in joining us.
+
 {: .notice--success}
