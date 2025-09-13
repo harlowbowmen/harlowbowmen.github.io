@@ -15,7 +15,7 @@ During the training we will provide you with all the equipment you need. We will
 We strongly recommend you do not buy any equipment without first discussing it with our coaches.  When you're starting out it is easy to waste a lot of money on unsuitable equipment.
 
 ## Full Membership
-There is an annual membership fee set by the club committee each year, with the year starting 1st September. If you join during the year your fee will be pro-rated for the remainder of the year, although your membership fees for Archery GB (required for insurance coverage) will be subject to their terms. There are no shooting/attendance fees.
+There is an annual membership fee set by the club committee each year, with the year starting 1st September. If you join during the year your fee will be pro-rated for the remainder of the year, although your membership fees for Archery GB (required for insurance coverage) will be subject to their terms. There are no shooting/attendance fees.  The club operates purely to cover its operational costs to keep the membership fees as low as possible.
 
 Membership is subject to available capacity. The indoor venue is small which limits our ability to accept new members.
 
