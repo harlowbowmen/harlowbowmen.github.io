@@ -15,7 +15,7 @@ During the training we will provide you with all the equipment you need. We will
 ## Full Membership
 There is an annual membership fee set by the club committee each year, with the year starting 1st September. If you join during the year your fee will be pro-rated for the remainder of the year, although your membership fees for Archery GB (required for insurance coverage) will be subject to their terms. There are no shooting/attendance fees.
 
-Membership is subject to available capacity. The indoor venue is small which limits our ability to accept new members
+Membership is subject to available capacity. The indoor venue is small which limits our ability to accept new members.
 
 ## Sign Up
 If you require training then please sign-up to our waiting list via the <a href="https://forms.gle/L34kwFCfwyyqxzTD6">Sign-Up Form</a>
