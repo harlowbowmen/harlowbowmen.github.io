@@ -31,7 +31,7 @@ header:
   overlay_image: /assets/images/HBBackground2.jpg
 excerpt:
   <br/><br/><br/><br/><br/><br/><br/>
-  Harlow Bowmen, your local Harlow archery club.<br/>
+  Harlow Bowmen archery club.<br/>
   <br/><br/><br/><br/><br/>
 ---
 {% include feature_row %}
