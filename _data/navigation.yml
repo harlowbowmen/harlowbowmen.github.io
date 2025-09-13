@@ -2,12 +2,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "News"
-    url: /news/
-    description: Latest news about the club
   - title: "Join Us"
     url: /joinus/
     description: Information on joining or visiting the club
+  - title: "News"
+    url: /news/
+    description: Latest news about the club
   - title: "Gallery"
     url: /gallery/
 
