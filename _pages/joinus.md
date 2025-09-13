@@ -18,8 +18,6 @@ There is an annual membership fee set by the club committee each year, with the 
 Membership is subject to available capacity. The indoor venue is small which limits our ability to accept new members.
 
 ## Sign Up
-If you require training then please sign-up to our waiting list via the <a href="https://forms.gle/L34kwFCfwyyqxzTD6">Sign-Up Form</a>
-
-If you are already fully trained then please use the Contact Us page for further details.
+If you require training or are already full trained and simply wish to join then please sign-up to our waiting list via the <a href="https://forms.gle/L34kwFCfwyyqxzTD6">Sign-Up Form</a>.  We will be in contact when a space is available.
 
 
