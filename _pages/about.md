@@ -8,7 +8,7 @@ toc: true
 ![Harlow Bowmen Logo](/assets/images/HBLogoT.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Introduction
-We are small friendly groups of archers welcoming beginers and veterans alike.  Due to the small size of the club we are adults only as we do not have capacity for a junior section. 
+We are small friendly groups of archers welcoming beginners and veterans alike.  Due to the small size of the club we are adults only as we do not have capacity for a junior section. 
 
 ## Meetings
 The club meets on Wednesday evenings (except the last Wednesday of the month) 7pm to 10pm at Thornwood Village Hall from autumn to spring, and weather permitting during the summer at Roydon Primary School from 6pm to dusk.  We welcome visiting archers, there is a guest fee of £5 per session and you'll need to show your GNAS membership card.
