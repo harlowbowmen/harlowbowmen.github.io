@@ -5,7 +5,7 @@ permalink: /joinus/
 ---
 
 ## Welcome
-We welcome all genders, backgrounds and skill levels. Don't worry if you've never used a bow before, we will teach you. If you have already completed training with an accredited instructor then you are welcome to join straight away.  If you haven't been fully trained then you will need to complete our training course before you can become a member.  Unfortunately due to our size we do not have a junior section and therefore we are an adults only club.
+We are a welcoming friendly club. Don't worry if you've never used a bow before, we will teach you. If you have already completed training with an accredited instructor then you are welcome to join straight us for a three month trial period, subject to having Archery GB membership.  If you haven't been fully trained then you will need to complete our training course before you can become a member.  Unfortunately due to our size we do not have a junior section and therefore we are an adults only club.
 
 ## Training
 Our training courses run when the certified coaches are available. Each course consists of four evening sessions 19:30 until 21:30 on Wednesdays at our indoor venue, Thornwood Village Hall. You must attend all four sessions to become certified and eligible to become a full member.
@@ -20,6 +20,6 @@ There is an annual membership fee set by the club committee each year, with the 
 Membership is subject to available capacity. The indoor venue is small which limits our ability to accept new members.
 
 ## Sign Up
-If you require training or are already full trained and simply wish to join then please sign-up to our waiting list via the <a href="https://forms.gle/L34kwFCfwyyqxzTD6">Sign-Up Form</a>.  We will be in contact when a space is available.
+If you require training or are already fully trained and simply wish to join then please sign-up to our waiting list via the <a href="https://forms.gle/L34kwFCfwyyqxzTD6">Sign-Up Form</a>.  We will be in contact when a space is available.
 
 
