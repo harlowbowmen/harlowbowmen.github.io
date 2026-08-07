@@ -20,6 +20,8 @@ There is an annual membership fee set by the club committee each year, with the 
 Membership is subject to available capacity. The indoor venue is small which limits our ability to accept new members.
 
 ## Sign Up
+Please note that our coaches are currently unavailable, and we have a substantial waiting list.  Therefore we not currently accepting sign-ups for those who don't already shoot. We will update this page when we resume training courses.  If you are already experienced then please complete the form and we will be in contact as capacity becomes available for new members.
+
 If you require training or are already fully trained and simply wish to join then please sign-up to our waiting list via the <a href="https://forms.gle/L34kwFCfwyyqxzTD6">Sign-Up Form</a>.  We will be in contact when a space is available.
 
 
